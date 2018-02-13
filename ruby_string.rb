@@ -84,3 +84,5 @@ puts "abcdefg".crypt "sd" # input of 2 char string , A.Z , a.z ,0.9 , . and /
 
 # MORE: other string function, unpack, regular expression
 
+
+#https://www.tutorialspoint.com/ruby/ruby_strings.htm
